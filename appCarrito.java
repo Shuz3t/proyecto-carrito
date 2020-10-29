@@ -17,29 +17,37 @@ public class appCarrito
 
             switch(opcion)
             {
-                case 1: //Agregar
+                case 1: //Nuevo carrito
                
                
                 
                 break;
 
-                case 2: //Retirar
-                
+                case 2: //Eliminar carrito
+
             
 
                 break;
 
-                case 3: //Mostrar siguiente
+                case 3: //Agregar al carrito
              
 
                 break;
 
-                case 4: //Mostrar cola
+                case 4: //Cambiar producto
                 
                 break;
 
-                case 5: //Acomodar cola
+                case 5: //Quitar del carrito
                 
+                break;
+
+                case 6: //Total del carrito
+
+                break;
+
+                case 7: //Total global
+
                 break;
 
                 case 0: //Terminar programa
